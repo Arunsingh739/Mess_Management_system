@@ -1,6 +1,5 @@
 
-#                                               CSN 291 
-##                                      MESS MANAGEMENT SYSTEM
+                                     MESS MANAGEMENT SYSTEM
 
 
 It is the problem statement for the MGIMT College mess management system in order to efficiently manage the basic functionality of every collage mess. You have to implement a bhavan mess management system with all the details explained. Currently, all bhavan messes are managed manually by officials with minimal transparency. This should be eliminated, and a digitized transparent system must be implemented. 
